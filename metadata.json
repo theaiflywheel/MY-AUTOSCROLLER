@@ -1,0 +1,6 @@
+{
+  "name": "FlowStream",
+  "description": "Chrome Extension for automated video scrolling on YouTube Shorts, Instagram Reels, and Twitter (X) Video Feed, featuring an interactive live simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
